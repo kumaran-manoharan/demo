@@ -6,3 +6,6 @@ This is additional line, modifying in the same line to merge conflicts
 =======
 This is additional line and making chnages in very-bad branch
 >>>>>>> very-bad
+
+
+This is stash example
