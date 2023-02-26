@@ -1,4 +1,8 @@
 This is sample lin
 Line added in between
 Add another line
-This is additional line, modifying in the same line
+<<<<<<< HEAD
+This is additional line, modifying in the same line to merge conflicts
+=======
+This is additional line and making chnages in very-bad branch
+>>>>>>> very-bad
