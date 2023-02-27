@@ -15,3 +15,4 @@ Comparing repo and github
 Checking rebase
 
 conflict check local
+Conflict check remote
