@@ -11,3 +11,5 @@ This is additional line and making chnages in very-bad branch
 This is stash example
 
 Comparing repo and github
+
+Checking rebase
