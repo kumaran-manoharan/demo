@@ -16,3 +16,5 @@ Checking rebase
 
 conflict check local
 Conflict check remote
+
+checking tag
