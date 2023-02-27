@@ -13,3 +13,5 @@ This is stash example
 Comparing repo and github
 
 Checking rebase
+
+Conflict check remote
