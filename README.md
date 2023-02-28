@@ -18,3 +18,5 @@ conflict check local
 Conflict check remote
 
 checking tag
+
+Make further changes in the tag
